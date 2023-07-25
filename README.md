@@ -1,4 +1,4 @@
-### Hi there 👋
+### Rohan Baria 👋
 - 📫 How to reach me: 4177rb@gmail.com
 - 📷 Instagram: https://www.instagram.com/rohanxbaria
 - 👨‍💼 Linkedin: https://in.linkedin.com/in/rohan-baria-09322517a
