@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 📫 How to reach me: 4177rb@gmail.com
-- 📷 instagram: https://www.instagram.com/rohanxbaria
+- 📷 Instagram: https://www.instagram.com/rohanxbaria
 
 <!--
 **Rohan4177/Rohan4177** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
