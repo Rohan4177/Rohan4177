@@ -1,6 +1,6 @@
 ### Rohan Baria 👋
 - 📫 How to reach me: 4177rb@gmail.com
-- <img src="https://github.com/Rohan4177/Rohan4177/assets/132183545/6570e47f-f236-485b-947d-0cd0b55d0690" width="20" height="20"> Instagram: https://www.instagram.com/rohanxbaria
+- <img src="https://github.com/Rohan4177/Rohan4177/assets/132183545/6570e47f-f236-485b-947d-0cd0b55d0690" width="15" height="15" align="center"> Instagram: https://www.instagram.com/rohanxbaria
 - 👨‍💼 Linkedin: https://in.linkedin.com/in/rohan-baria-09322517a
 
 <!--
