@@ -1,12 +1,8 @@
 ### Rohan Baria 👋
 📫 How to reach me: 4177rb@gmail.com
-<div style="margin-bottom: 20px;">
-    [<img src="https://github.com/Rohan4177/Rohan4177/blob/main/Ig.png" width="50" height="50" align="center">](https://www.instagram.com/rohanxbaria)
-</div>
+[<img src="https://github.com/Rohan4177/Rohan4177/blob/main/Ig.png" width="50" height="50" align="center">](https://www.instagram.com/rohanxbaria)
+[<img src="https://github.com/Rohan4177/Rohan4177/blob/main/Li.png" width="50" height="50" align="center">](https://in.linkedin.com/in/rohan-baria-09322517a)
 
-<div style="margin-bottom: 20px;">
-    [<img src="https://github.com/Rohan4177/Rohan4177/blob/main/Li.png" width="50" height="50" align="center">](https://in.linkedin.com/in/rohan-baria-09322517a)
-</div>
 
 
 
