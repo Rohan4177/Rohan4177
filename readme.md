@@ -4,6 +4,7 @@
 📫 How to reach me: 4177rb@gmail.com <br>
 <div align="center">
         <a href="https://www.instagram.com/rohanxbaria"><img src="https://github.com/Rohan4177/Rohan4177/blob/main/images/Ig.png" alt="Instagram" style="width: 50px; height: 50px;"/></a>
+        &nbsp;
         <a href="https://in.linkedin.com/in/rohan-baria-09322517a"><img src="https://github.com/Rohan4177/Rohan4177/blob/main/images/Li.png" alt="linkedin" style="width: 50px; height: 50px;"/></a>
 </div>
 
